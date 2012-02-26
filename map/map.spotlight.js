@@ -8,8 +8,10 @@ function initMap() {
     map = new MM.Map("map", provider);
     map.setCenterZoom(new MM.Location(36.9818, -121.9575), 12);
 
+/*
     spotlight = new SpotlightLayer();
     map.addLayer(spotlight);
+*/
 
     markers = new MM.MarkerLayer();
     map.addLayer(markers);
@@ -47,16 +49,12 @@ function onLoadMarkers(collection) {
         // add a class
         marker.setAttribute("class", "report");
         // set the href to link to crimespotting's crime page
-        marker.setAttribute("href", "http://sanfrancisco.crimespotting.org/crime/" + [
-            feature.properties.date_time.substr(0, 10),
-            type.replace(/ /g, "_"),
-            feature.id
-        ].join("/"));
+        marker.setAttribute("href", "../data/santa_cruz_businesses.geo.json");
 
         // create an image icon
         var img = marker.appendChild(document.createElement("img"));
-        img.setAttribute("src", "../geojson/icons/" + type.replace(/ /g, "_") + ".png");
-
+/*         img.setAttribute("src", "icons/" + type.replace(/ /g, "_") + ".png"); */
+        img.setAttribute("src", "icons/green.png");
         markers.addMarker(marker, feature);
         // add the marker's location to the extent list
         locations.push(marker.location);
