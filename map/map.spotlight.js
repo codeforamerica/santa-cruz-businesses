@@ -36,7 +36,7 @@ function onLoadMarkers(collection) {
     // to the markers layer
     for (var i = 0; i < len; i++) {
         var feature = features[i],
-            type = feature.properties.crime_type,
+            type = feature.properties["Business Type"],
             marker = document.createElement("a");
 
         marker.feature = feature;
@@ -44,7 +44,7 @@ function onLoadMarkers(collection) {
 
         // give it a title
         marker.setAttribute("title", [
-            type, "on", feature.properties.date_time
+            type, "on", feature.properties["Company Name"]
         ].join(" "));
         // add a class
         marker.setAttribute("class", "report");
@@ -53,8 +53,10 @@ function onLoadMarkers(collection) {
 
         // create an image icon
         var img = marker.appendChild(document.createElement("img"));
+        // originals: http://prag.ma/code/modestmaps-js/examples/geojson/icons/
 /*         img.setAttribute("src", "icons/" + type.replace(/ /g, "_") + ".png"); */
         img.setAttribute("src", "icons/green.png");
+        
         markers.addMarker(marker, feature);
         // add the marker's location to the extent list
         locations.push(marker.location);
