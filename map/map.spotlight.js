@@ -8,10 +8,8 @@ function initMap() {
     map = new MM.Map("map", provider);
     map.setCenterZoom(new MM.Location(36.9818, -121.9575), 12);
 
-/*
     spotlight = new SpotlightLayer();
     map.addLayer(spotlight);
-*/
 
     markers = new MM.MarkerLayer();
     map.addLayer(markers);
