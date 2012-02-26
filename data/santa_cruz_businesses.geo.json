@@ -1,2 +1,1192 @@
-onLoadMarkers(
-{"type":"FeatureCollection","features":[{"id":"101037","type":"Feature","geometry": {  "type":"Point",  "coordinates": [-122.026088,36.975102]  },"properties": {    "Business Num" : 101037,    "Company Name" : "0COG, INC.",    "Location Addr Line 1" : "101 COOPER ST",    "address" : "101 COOPER ST, SANTA CRUZ, CA 95060",    "longitude" : null,    "latitude" : null,    "Location Addr Line 2" : null,    "Location City" : "SANTA CRUZ",    "Location State" : "CA",    "Location Zip" : "95060-4526",    "Mail Addr Line 1" : "101 COOPER ST",    "Mail Addr Line 2" : null,    "Mail City" : "SANTA CRUZ",    "Mail State" : "CA",    "Mail Zip" : 95060,    "Owner Name" : "GLEN CARL - TREASURER",    "Co-Owner Name" : null,    "Attn To" : null,    "Start Date" : "2009-09-14T00:00:00Z",    "Employee Count" : null,    "BIA Type" : 3,    "BIA Zone" : "Zone 1",    "Business Type" : "COMPUTER CONSULTING"    }},{"id":"94166","type":"Feature","geometry": {  "type":"Point",  "coordinates": [-122.089509,37.042111]  },"properties": {    "Business Num" : 94166,    "Company Name" : "100 REDWOODS POOL & SPA",    "Location Addr Line 1" : "1295 LOST ACRE DR",    "address" : "1295 LOST ACRE DR, FELTON, CA 95018",    "longitude" : null,    "latitude" : null,    "Location Addr Line 2" : null,    "Location City" : "FELTON",    "Location State" : "CA",    "Location Zip" : 95018,    "Mail Addr Line 1" : "1295 LOST ACRE DR",    "Mail Addr Line 2" : null,    "Mail City" : "FELTON",    "Mail State" : "CA",    "Mail Zip" : 95018,    "Owner Name" : "WILLIAM A. GRACE - OWNER",    "Co-Owner Name" : null,    "Attn To" : null,    "Start Date" : "2006-05-04T00:00:00Z",    "Employee Count" : null,    "BIA Type" : null,    "BIA Zone" : null,    "Business Type" : "SPA/POOL REPAIR"    }},{"id":"1448","type":"Feature","geometry": {  "type":"Point",  "coordinates": [-122.0252757,36.9716204]  },"properties": {    "Business Num" : 1448,    "Company Name" : "1010 PACIFIC APARTMENTS",    "Location Addr Line 1" : "1010 PACIFIC AVE",    "address" : "1010 PACIFIC AVE, SANTA CRUZ, CA 95060",    "longitude" : null,    "latitude" : null,    "Location Addr Line 2" : null,    "Location City" : "SANTA CRUZ",    "Location State" : "CA",    "Location Zip" : "95060-7524",    "Mail Addr Line 1" : "1050 RALSTON AVE",    "Mail Addr Line 2" : null,    "Mail City" : "BELMONT",    "Mail State" : "CA",    "Mail Zip" : 94002,    "Owner Name" : "C/O ACCOUNTING DEPT/S PANOPIO",    "Co-Owner Name" : null,    "Attn To" : null,    "Start Date" : "2003-08-01T00:00:00Z",    "Employee Count" : 4,    "BIA Type" : 0,    "BIA Zone" : "Zone 1",    "Business Type" : "MULTIPLE DWELLING OVER 9 UNITS"    }},{"id":"94873","type":"Feature","geometry": {  "type":"Point",  "coordinates": [-122.026293,36.973724]  },"properties": {    "Business Num" : 94873,    "Company Name" : "1315 GROUP BUILDING  #5-076-14",    "Location Addr Line 1" : "1315 PACIFIC AVE",    "address" : "1315 PACIFIC AVE, SANTA CRUZ, CA 95060",    "longitude" : null,    "latitude" : null,    "Location Addr Line 2" : null,    "Location City" : "SANTA CRUZ",    "Location State" : "CA",    "Location Zip" : "95060-3909",    "Mail Addr Line 1" : "325 OCEAN VIEW AVE",    "Mail Addr Line 2" : null,    "Mail City" : "SANTA CRUZ",    "Mail State" : "CA",    "Mail Zip" : 95062,    "Owner Name" : "BURT REES/ROBIN GARMANN",    "Co-Owner Name" : null,    "Attn To" : null,    "Start Date" : "1982-02-01T00:00:00Z",    "Employee Count" : null,    "BIA Type" : 3,    "BIA Zone" : "Zone 1",    "Business Type" : "COMM/IND SPACE RENTAL/LEASING"    }},{"id":"100354","type":"Feature","geometry": {  "type":"Point",  "coordinates": [-122.021332,36.98593]  },"properties": {    "Business Num" : 100354,    "Company Name" : "137, 139, 141 GRANT STREET",    "Location Addr Line 1" : "137 GRANT ST",    "address" : "137 GRANT ST, SANTA CRUZ, CA 95060",    "longitude" : null,    "latitude" : null,    "Location Addr Line 2" : null,    "Location City" : "SANTA CRUZ",    "Location State" : "CA",    "Location Zip" : "95060-2916",    "Mail Addr Line 1" : "137 GRANT ST",    "Mail Addr Line 2" : null,    "Mail City" : "SANTA CRUZ",    "Mail State" : "CA",    "Mail Zip" : "95060-2916",    "Owner Name" : "GRANT & KATHLEEN GOULD",    "Co-Owner Name" : null,    "Attn To" : null,    "Start Date" : "2010-12-01T00:00:00Z",    "Employee Count" : null,    "BIA Type" : null,    "BIA Zone" : null,    "Business Type" : "MULTIPLE DWELLING THREE UNITS"    }}]})
+onLoadMarkers({"type":"FeatureCollection","features":[ 
+  {
+  "id":"101099",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.016829,36.975966]
+    },
+  "properties": {
+      "Business Num" : 101099,
+      "Company Name" : "ANDERSON MCKELVEY ARCHITECTS",
+      "Location Addr Line 1" : "536 SOQUEL AVE",
+      "address" : "536 SOQUEL AVE, SANTA CRUZ, CA 95062",
+      "longitude" : -122.016829,
+      "latitude" : 36.975966,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95062-2301",
+      "Mail Addr Line 1" : "536 SOQUEL AVE",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95062,
+      "Owner Name" : "DENNIS ANDERSON-PRES",
+      "Co-Owner Name" : "JOHN MCKELVEY-VP",
+      "Attn To" : null,
+      "Start Date" : "2008-01-01T00:00:00Z",
+      "Employee Count" : 4,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"94314",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.037452,36.968201]
+    },
+  "properties": {
+      "Business Num" : 94314,
+      "Company Name" : "BOONE LOW RATLIFF ARCHITECTS, INC",
+      "Location Addr Line 1" : "157 VAN NESS AVE",
+      "address" : "157 VAN NESS AVE, SANTA CRUZ, CA 95060",
+      "longitude" : -122.037452,
+      "latitude" : 36.968201,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-4200",
+      "Mail Addr Line 1" : "157 VAN NESS AVE",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "JACQUELYN LOW/ CEO",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1994-02-01T00:00:00Z",
+      "Employee Count" : 4,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"94816",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.0281596,36.9757369]
+    },
+  "properties": {
+      "Business Num" : 94816,
+      "Company Name" : "BRIAN MARIDON - ARCHITECT",
+      "Location Addr Line 1" : "118 UNION ST",
+      "address" : "118 UNION ST, SANTA CRUZ, CA 95060",
+      "longitude" : -122.0281596,
+      "latitude" : 36.9757369,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-3708",
+      "Mail Addr Line 1" : "118 UNION ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "BRIAN MARIDON",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1995-01-30T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : 3,
+      "BIA Zone" : "Zone 1",
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"100263",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-96.800119,32.8087158]
+    },
+  "properties": {
+      "Business Num" : 100263,
+      "Company Name" : "BRW ARCHITECTS INC",
+      "Location Addr Line 1" : "3535 TRAVIS STREET 250",
+      "address" : "3535 TRAVIS STREET 250, DALLAS, TX 75204",
+      "longitude" : -96.800119,
+      "latitude" : 32.8087158,
+      "Location Addr Line 2" : null,
+      "Location City" : "DALLAS",
+      "Location State" : "TX",
+      "Location Zip" : 75204,
+      "Mail Addr Line 1" : "2104 UNION STREET",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SAN FRANCISCO",
+      "Mail State" : "CA",
+      "Mail Zip" : 94123,
+      "Owner Name" : "CHRIS FORD",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2011-05-04T00:00:00Z",
+      "Employee Count" : 6,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"100131",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.405108,37.790907]
+    },
+  "properties": {
+      "Business Num" : 100131,
+      "Company Name" : "CAREY AND CO INC",
+      "Location Addr Line 1" : "460 BUSH ST",
+      "address" : "460 BUSH ST, SAN FRANCISCO, CA 94108",
+      "longitude" : -122.405108,
+      "latitude" : 37.790907,
+      "Location Addr Line 2" : null,
+      "Location City" : "SAN FRANCISCO",
+      "Location State" : "CA",
+      "Location Zip" : 94108,
+      "Mail Addr Line 1" : "460 BUSH ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SAN FRANCISCO",
+      "Mail State" : "CA",
+      "Mail Zip" : 94108,
+      "Owner Name" : "ALICE CAREY",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2011-02-24T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"78502",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.014899,36.975494]
+    },
+  "properties": {
+      "Business Num" : 78502,
+      "Company Name" : "CARTER & SALAZAR ARCHITECTS",
+      "Location Addr Line 1" : "522 S BRANCIFORTE AVE",
+      "address" : "522 S BRANCIFORTE AVE, SANTA CRUZ, CA 95062",
+      "longitude" : -122.014899,
+      "latitude" : 36.975494,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95062-3327",
+      "Mail Addr Line 1" : "522 SOUTH BRANCIFORTE AV",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95062,
+      "Owner Name" : "HUGH DAVID CARTER - SENIOR PAR",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1987-01-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"95968",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.013085,36.985509]
+    },
+  "properties": {
+      "Business Num" : 95968,
+      "Company Name" : "CHRISTOPHER J GRASSO, AIA, ARCHITECT",
+      "Location Addr Line 1" : "222 LINDEN ST",
+      "address" : "222 LINDEN ST, SANTA CRUZ, CA 95062",
+      "longitude" : -122.013085,
+      "latitude" : 36.985509,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95062-1020",
+      "Mail Addr Line 1" : "222 LINDEN ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95062,
+      "Owner Name" : "CHRIS GRASSO",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1995-06-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"100411",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.03314,36.957385]
+    },
+  "properties": {
+      "Business Num" : 100411,
+      "Company Name" : "CLARKE L SHULTES DESIGN",
+      "Location Addr Line 1" : "307 NATIONAL ST",
+      "address" : "307 NATIONAL ST, SANTA CRUZ, CA 95060",
+      "longitude" : -122.03314,
+      "latitude" : 36.957385,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-6034",
+      "Mail Addr Line 1" : "307 NATIONAL ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "CLARKE L. SHULTES",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2011-01-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"93707",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.017597,36.976496]
+    },
+  "properties": {
+      "Business Num" : 93707,
+      "Company Name" : "CRAIG BAGLEY - ARCHITECT",
+      "Location Addr Line 1" : "555 SOQUEL AVE",
+      "address" : "555 SOQUEL AVE, SANTA CRUZ, CA 95062",
+      "longitude" : -122.017597,
+      "latitude" : 36.976496,
+      "Location Addr Line 2" : 140,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95062-2337",
+      "Mail Addr Line 1" : "555 SOQUEL AVE, STE 140",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95062,
+      "Owner Name" : "CRAIG BAGLEY",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1993-11-15T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"98053",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-121.9979443,36.9642384]
+    },
+  "properties": {
+      "Business Num" : 98053,
+      "Company Name" : "DANA JONES",
+      "Location Addr Line 1" : "200 7TH AVE",
+      "address" : "200 7TH AVE, SANTA CRUZ, CA 95062",
+      "longitude" : -121.9979443,
+      "latitude" : 36.9642384,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : 95062,
+      "Mail Addr Line 1" : "200 7TH AVE",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95062,
+      "Owner Name" : "DANA JONES",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1998-07-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"80146",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.042105,36.968656]
+    },
+  "properties": {
+      "Business Num" : 80146,
+      "Company Name" : "DENNIS DIEGO ARCHITECT",
+      "Location Addr Line 1" : "1127 KING ST",
+      "address" : "1127 KING ST, SANTA CRUZ, CA 95060",
+      "longitude" : -122.042105,
+      "latitude" : 36.968656,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-2459",
+      "Mail Addr Line 1" : "1127 KING ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "DENNIS DIEGO",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1989-06-01T00:00:00Z",
+      "Employee Count" : 0,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"76729",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.035602,36.960781]
+    },
+  "properties": {
+      "Business Num" : 76729,
+      "Company Name" : "DESIGN FOR HEALTH",
+      "Location Addr Line 1" : "250 DUFOUR ST",
+      "address" : "250 DUFOUR ST, SANTA CRUZ, CA 95060",
+      "longitude" : -122.035602,
+      "latitude" : 36.960781,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-5915",
+      "Mail Addr Line 1" : "250 DUFOUR ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "MITCHELL GOLDSTEIN",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1985-07-01T00:00:00Z",
+      "Employee Count" : 1,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"99461",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-121.991692,37.024082]
+    },
+  "properties": {
+      "Business Num" : 99461,
+      "Company Name" : "DON B LEATHERMAN - ARCHITECT",
+      "Location Addr Line 1" : "3111 BRANCIFORTE DR",
+      "address" : "3111 BRANCIFORTE DR, SANTA CRUZ, CA 95065",
+      "longitude" : -121.991692,
+      "latitude" : 37.024082,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : 95065,
+      "Mail Addr Line 1" : "3111 BRANCIFORTE DR",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95065,
+      "Owner Name" : "DON B LEATHERMAN",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2000-01-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"97107",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.025454,36.970434]
+    },
+  "properties": {
+      "Business Num" : 97107,
+      "Company Name" : "ED GLATFELTER-JONES, ARCHITECT",
+      "Location Addr Line 1" : "903 PACIFIC AVE",
+      "address" : "903 PACIFIC AVE, SANTA CRUZ, CA 95060",
+      "longitude" : -122.025454,
+      "latitude" : 36.970434,
+      "Location Addr Line 2" : "206B",
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-4462",
+      "Mail Addr Line 1" : "903 PACIFIC AVE #206B",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "ED GLATFELTER-JONES",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1997-12-17T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : 3,
+      "BIA Zone" : "Zone 1",
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"97257",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.0313478,36.9820549]
+    },
+  "properties": {
+      "Business Num" : 97257,
+      "Company Name" : "G. SCHULZ - ARCHITECT",
+      "Location Addr Line 1" : "303 POTRERO ST 29-103",
+      "address" : "303 POTRERO ST 29-103, SANTA CRUZ, CA 95060",
+      "longitude" : -122.0313478,
+      "latitude" : 36.9820549,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-2783",
+      "Mail Addr Line 1" : "303 POTRERO ST #29-103",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "GERALD SCHULZ",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2009-04-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : 3,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"100508",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.033096,36.976202]
+    },
+  "properties": {
+      "Business Num" : 100508,
+      "Company Name" : "GEARLD YATES, ARCHITECT",
+      "Location Addr Line 1" : "406 MISSION ST B",
+      "address" : "406 MISSION ST B, SANTA CRUZ, CA 95060",
+      "longitude" : -122.033096,
+      "latitude" : 36.976202,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-3700",
+      "Mail Addr Line 1" : "406 MISSION ST, STE B",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "GERALD YATES",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2008-03-31T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"98799",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.033099,36.996085]
+    },
+  "properties": {
+      "Business Num" : 98799,
+      "Company Name" : "GREGORY SMITH, ARCHITECT",
+      "Location Addr Line 1" : "2121 OCEAN ST EXT",
+      "address" : "2121 OCEAN ST EXT, SANTA CRUZ, CA 95060",
+      "longitude" : -122.033099,
+      "latitude" : 36.996085,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : 95060,
+      "Mail Addr Line 1" : "2121 OCEAN ST EXT",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "GREGORY SMITH",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2000-05-10T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"100139",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.145735,36.982961]
+    },
+  "properties": {
+      "Business Num" : 100139,
+      "Company Name" : "GROW DESIGN & BUILD",
+      "Location Addr Line 1" : "5420 COAST ROAD",
+      "address" : "5420 COAST ROAD, SANTA CRUZ, CA 95060",
+      "longitude" : -122.145735,
+      "latitude" : 36.982961,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : 95060,
+      "Mail Addr Line 1" : "5420 COAST ROAD",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "CHARLES ANDERSON",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2011-03-03T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"98322",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-118.25565,34.049722]
+    },
+  "properties": {
+      "Business Num" : 98322,
+      "Company Name" : "INTERIOR ARCHITECTS, INC.",
+      "Location Addr Line 1" : "550 S. HOPE ST",
+      "address" : "550 S. HOPE ST, LOS ANGELES, CA 90071",
+      "longitude" : -118.25565,
+      "latitude" : 34.049722,
+      "Location Addr Line 2" : "1903-01-04T00:00:00Z",
+      "Location City" : "LOS ANGELES",
+      "Location State" : "CA",
+      "Location Zip" : 90071,
+      "Mail Addr Line 1" : "550 S. HOPE STREET #1700",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "LOS ANGELES",
+      "Mail State" : "CA",
+      "Mail Zip" : 90071,
+      "Owner Name" : "DAVID B MOURNING-CEO/PRES",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1999-07-25T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"92167",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.0097,36.977267]
+    },
+  "properties": {
+      "Business Num" : 92167,
+      "Company Name" : "JANET DOWS- ARCHITECT",
+      "Location Addr Line 1" : "1425 SEABRIGHT AVE",
+      "address" : "1425 SEABRIGHT AVE, SANTA CRUZ, CA 95062",
+      "longitude" : -122.0097,
+      "latitude" : 36.977267,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95062-2526",
+      "Mail Addr Line 1" : "1425 SEABRIGHT AVE",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95062,
+      "Owner Name" : "JANET DOWS",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1992-01-15T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"101034",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.023801,37.0537001]
+    },
+  "properties": {
+      "Business Num" : 101034,
+      "Company Name" : "LEIF RIDEOUT ARCHITECT",
+      "Location Addr Line 1" : "552 BEAN CREEK ROAD #35",
+      "address" : "552 BEAN CREEK ROAD #35, SCOTTS VALLEY, CA 95066",
+      "longitude" : -122.023801,
+      "latitude" : 37.0537001,
+      "Location Addr Line 2" : null,
+      "Location City" : "SCOTTS VALLEY",
+      "Location State" : "CA",
+      "Location Zip" : 95066,
+      "Mail Addr Line 1" : "552 BEAN CREEK ROAD #35",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SCOTTS VALLEY",
+      "Mail State" : "CA",
+      "Mail Zip" : 95066,
+      "Owner Name" : "LEIF RIDEOUT",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2006-01-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"97068",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.014633,36.979876]
+    },
+  "properties": {
+      "Business Num" : 97068,
+      "Company Name" : "MARILYN CRENSHAW",
+      "Location Addr Line 1" : "806 N BRANCIFORTE AVE",
+      "address" : "806 N BRANCIFORTE AVE, SANTA CRUZ, CA 95062",
+      "longitude" : -122.014633,
+      "latitude" : 36.979876,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95062-1028",
+      "Mail Addr Line 1" : "PO BOX 4204",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95063,
+      "Owner Name" : "MARILYN CRENSHAW",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1997-08-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"96210",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.026088,36.975102]
+    },
+  "properties": {
+      "Business Num" : 96210,
+      "Company Name" : "NIELSEN ARCHITECTS INC",
+      "Location Addr Line 1" : "101 COOPER ST",
+      "address" : "101 COOPER ST, SANTA CRUZ, CA 95060",
+      "longitude" : -122.026088,
+      "latitude" : 36.975102,
+      "Location Addr Line 2" : 201,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : 95060,
+      "Mail Addr Line 1" : "PO BOX 772",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95061,
+      "Owner Name" : "CHRISTIAN NIELSEN",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2008-04-14T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : 3,
+      "BIA Zone" : "Zone 1",
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"97017",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.061485,36.951744]
+    },
+  "properties": {
+      "Business Num" : 97017,
+      "Company Name" : "OFFICE OF ROBERT H AMOR, ARCHITECT",
+      "Location Addr Line 1" : "2395 DELAWARE AVE",
+      "address" : "2395 DELAWARE AVE, SANTA CRUZ, CA 95060",
+      "longitude" : -122.061485,
+      "latitude" : 36.951744,
+      "Location Addr Line 2" : 169,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-5725",
+      "Mail Addr Line 1" : "2395 DELAWARE AVE #169",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "ROBERT H AMOR",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1997-06-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"95142",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.0313478,36.9820549]
+    },
+  "properties": {
+      "Business Num" : 95142,
+      "Company Name" : "RETROCOM ENERGY STRATEGIES, INC.",
+      "Location Addr Line 1" : "303 POTRERO ST",
+      "address" : "303 POTRERO ST, SANTA CRUZ, CA 95060",
+      "longitude" : -122.0313478,
+      "latitude" : 36.9820549,
+      "Location Addr Line 2" : 31,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-2782",
+      "Mail Addr Line 1" : "2378 MARITIME DR #110",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "ELK GROVE",
+      "Mail State" : "CA",
+      "Mail Zip" : 95758,
+      "Owner Name" : "LEN BEYEA - VP/STEPHANY CULL -",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2007-04-23T00:00:00Z",
+      "Employee Count" : 8,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"100518",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-120.6720013,35.2492884]
+    },
+  "properties": {
+      "Business Num" : 100518,
+      "Company Name" : "RRM DESIGN GROUP",
+      "Location Addr Line 1" : "3765 S HIGUERA ST. STE 102",
+      "address" : "3765 S HIGUERA ST. STE 102, SAN LUIS OBISPO, CA 93401",
+      "longitude" : -120.6720013,
+      "latitude" : 35.2492884,
+      "Location Addr Line 2" : null,
+      "Location City" : "SAN LUIS OBISPO",
+      "Location State" : "CA",
+      "Location Zip" : 93401,
+      "Mail Addr Line 1" : "3765 S HIGUERA ST. STE 102",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SAN LUIS OBISPO",
+      "Mail State" : "CA",
+      "Mail Zip" : 93401,
+      "Owner Name" : "GREGORY PETERS, CFO",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2009-10-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"97599",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.4082406,37.783667]
+    },
+  "properties": {
+      "Business Num" : 97599,
+      "Company Name" : "STANTEC CONSULTING SERVICES, INC.",
+      "Location Addr Line 1" : "901 MARKET ST 6TH FLR",
+      "address" : "901 MARKET ST 6TH FLR, SAN FRANCISCO, CA 94103",
+      "longitude" : -122.4082406,
+      "latitude" : 37.783667,
+      "Location Addr Line 2" : null,
+      "Location City" : "SAN FRANCISCO",
+      "Location State" : "CA",
+      "Location Zip" : 94103,
+      "Mail Addr Line 1" : "12034 134TH CTNE #102",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "REDMOND",
+      "Mail State" : "WA",
+      "Mail Zip" : 98052,
+      "Owner Name" : "ROBERT GOMES - PRESIDENT",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2009-08-01T00:00:00Z",
+      "Employee Count" : 2,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"94963",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-121.949028,36.999331]
+    },
+  "properties": {
+      "Business Num" : 94963,
+      "Company Name" : "TEALL MESSER, ARCHITECT",
+      "Location Addr Line 1" : "3833 GLEN HAVEN RD",
+      "address" : "3833 GLEN HAVEN RD, SOQUEL, CA 95073",
+      "longitude" : -121.949028,
+      "latitude" : 36.999331,
+      "Location Addr Line 2" : null,
+      "Location City" : "SOQUEL",
+      "Location State" : "CA",
+      "Location Zip" : 95073,
+      "Mail Addr Line 1" : "3833 GLEN HAVEN RD.",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SOQUEL",
+      "Mail State" : "CA",
+      "Mail Zip" : 95073,
+      "Owner Name" : "TEALL MESSER",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2007-03-09T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"64270",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.0274588,36.9740999]
+    },
+  "properties": {
+      "Business Num" : 64270,
+      "Company Name" : "THACHER & THOMPSON",
+      "Location Addr Line 1" : "877 CEDAR ST 248",
+      "address" : "877 CEDAR ST 248, SANTA CRUZ, CA 95060",
+      "longitude" : -122.0274588,
+      "latitude" : 36.9740999,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-3809",
+      "Mail Addr Line 1" : "877 CEDAR STREET 248",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "CRUZIO HOLDING COMPANY LLC",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1973-01-01T00:00:00Z",
+      "Employee Count" : 4,
+      "BIA Type" : 3,
+      "BIA Zone" : "Zone 2",
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"98102",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.02598,36.984997]
+    },
+  "properties": {
+      "Business Num" : 98102,
+      "Company Name" : "THE ENVIROTECTS",
+      "Location Addr Line 1" : "150 FELKER ST",
+      "address" : "150 FELKER ST, SANTA CRUZ, CA 95060",
+      "longitude" : -122.02598,
+      "latitude" : 36.984997,
+      "Location Addr Line 2" : "G",
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-2849",
+      "Mail Addr Line 1" : "150 FELKER ST, STE G",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "FRANK PHANTON",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1999-04-08T00:00:00Z",
+      "Employee Count" : 1,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"95173",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": ["0","0"]
+    },
+  "properties": {
+      "Business Num" : 95173,
+      "Company Name" : "WALD, RUHNKE & DOST ARCHITECTS, LP",
+      "Location Addr Line 1" : "701 MISSION ST",
+      "address" : "701 MISSION ST, SANTA CRUZ, CA 95060",
+      "longitude" : "0",
+      "latitude" : "0",
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-3614",
+      "Mail Addr Line 1" : "2340 GARDEN RD #100",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "MONTEREY",
+      "Mail State" : "CA",
+      "Mail Zip" : 93940,
+      "Owner Name" : "FRANK DOST/HENRY RUHNKE",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2007-04-23T00:00:00Z",
+      "Employee Count" : 4,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"95267",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.01303,36.987547]
+    },
+  "properties": {
+      "Business Num" : 95267,
+      "Company Name" : "WESTERGAARD & HARRISON DESIGN",
+      "Location Addr Line 1" : "415 LINDEN ST",
+      "address" : "415 LINDEN ST, SANTA CRUZ, CA 95062",
+      "longitude" : -122.01303,
+      "latitude" : 36.987547,
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95062-1023",
+      "Mail Addr Line 1" : "415 LINDEN ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95062,
+      "Owner Name" : "VERA WESTERGAARD/GABRIEL HARRI",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2007-05-16T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"99596",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": ["0","0"]
+    },
+  "properties": {
+      "Business Num" : 99596,
+      "Company Name" : "WILLIAM C. KEMPF",
+      "Location Addr Line 1" : "911 CENTER ST",
+      "address" : "911 CENTER ST, SANTA CRUZ, CA 95060",
+      "longitude" : "0",
+      "latitude" : "0",
+      "Location Addr Line 2" : "F",
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-3831",
+      "Mail Addr Line 1" : "911 CENTER ST. STE F",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "WILLIAM C. KEMPF-ARCHITECT",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "2001-07-10T00:00:00Z",
+      "Employee Count" : 1,
+      "BIA Type" : 3,
+      "BIA Zone" : "Zone 2",
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"98200",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": ["0","0"]
+    },
+  "properties": {
+      "Business Num" : 98200,
+      "Company Name" : "WILLIAM FISHER ARCHITECTURE #C-11008",
+      "Location Addr Line 1" : "603 FRONT ST",
+      "address" : "603 FRONT ST, SANTA CRUZ, CA 95060",
+      "longitude" : "0",
+      "latitude" : "0",
+      "Location Addr Line 2" : null,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-4528",
+      "Mail Addr Line 1" : "603 FRONT ST.",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "WILLIAM FISHER - PRESIDENT",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1999-01-01T00:00:00Z",
+      "Employee Count" : null,
+      "BIA Type" : 3,
+      "BIA Zone" : "Zone 1",
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  },
+ 
+  {
+  "id":"5847",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": ["0","0"]
+    },
+  "properties": {
+      "Business Num" : 5847,
+      "Company Name" : "WILLIAM S BAGNALL - ARCHITECT",
+      "Location Addr Line 1" : "125 MISSION ST",
+      "address" : "125 MISSION ST, SANTA CRUZ, CA 95060",
+      "longitude" : "0",
+      "latitude" : "0",
+      "Location Addr Line 2" : 4,
+      "Location City" : "SANTA CRUZ",
+      "Location State" : "CA",
+      "Location Zip" : "95060-3763",
+      "Mail Addr Line 1" : "125 MISSION ST",
+      "Maiil Addr Line 2" : null,
+      "Mail City" : "SANTA CRUZ",
+      "Mail State" : "CA",
+      "Mail Zip" : 95060,
+      "Owner Name" : "PETER BAGNALL",
+      "Co-Owner Name" : null,
+      "Attn To" : null,
+      "Start Date" : "1980-07-11T00:00:00Z",
+      "Employee Count" : 1,
+      "BIA Type" : null,
+      "BIA Zone" : null,
+      "Business Type" : "ARCHITECT SERVICES/BLDG DESIGN"
+      }
+  }
+  ]
+})
