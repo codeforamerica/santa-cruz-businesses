@@ -1,4 +1,4 @@
-onLoadMarkers({"type":"FeatureCollection","features":[ 
+{"type":"FeatureCollection","features":[ 
   {
   "id":"101037",
   "type":"Feature",
@@ -2996,7 +2996,7 @@ onLoadMarkers({"type":"FeatureCollection","features":[
   "type":"Feature",
   "geometry": {
     "type":"Point",
-    "coordinates": [-121.9575,36.9818]
+    "coordinates": ["0","0"]
     },
   "properties": {
       "Business Num" : 95173,
@@ -3030,7 +3030,7 @@ onLoadMarkers({"type":"FeatureCollection","features":[
   "type":"Feature",
   "geometry": {
     "type":"Point",
-    "coordinates": [-121.9575,36.9818]
+    "coordinates": ["0","0"]
     },
   "properties": {
       "Business Num" : 92005,
@@ -3098,7 +3098,7 @@ onLoadMarkers({"type":"FeatureCollection","features":[
   "type":"Feature",
   "geometry": {
     "type":"Point",
-    "coordinates": [-121.9575,36.9818]
+    "coordinates": ["0","0"]
     },
   "properties": {
       "Business Num" : 99596,
@@ -3132,7 +3132,7 @@ onLoadMarkers({"type":"FeatureCollection","features":[
   "type":"Feature",
   "geometry": {
     "type":"Point",
-    "coordinates": [-121.9575,36.9818]
+    "coordinates": ["0","0"]
     },
   "properties": {
       "Business Num" : 98200,
@@ -3166,7 +3166,7 @@ onLoadMarkers({"type":"FeatureCollection","features":[
   "type":"Feature",
   "geometry": {
     "type":"Point",
-    "coordinates": [-121.9575,36.9818]
+    "coordinates": ["0","0"]
     },
   "properties": {
       "Business Num" : 5847,
@@ -3195,4 +3195,4 @@ onLoadMarkers({"type":"FeatureCollection","features":[
       }
   }
   ]
-})
+}
