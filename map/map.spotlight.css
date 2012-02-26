@@ -4,6 +4,11 @@ body {
     line-height: 16px;
     padding: 20px;
     margin: 0;
+    background: #000;
+}
+
+a {
+  color: #fff;
 }
 
 h1 {
