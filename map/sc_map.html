@@ -1,16 +1,29 @@
 <!DOCTYPE html>
 <html>
   <head>
+<!--
     <script type="text/javascript" src="polymaps.min.js"></script>
     <script type="text/javascript" src="kmeans.js"></script>
+-->
+
+<!-- view-source:http://prag.ma/code/modestmaps-js/examples/spotlight/markers.html -->
+
+    <script type="text/javascript" src="modestmaps.js"></script>
+    <script type="text/javascript" src="modestmaps.markers.js"></script>
+    <script type="text/javascript" src="spotlight.js"></script>
+
     <style type="text/css">
 
-@import url("map.css");
+@import url("map.spotlight.css");
 
     </style>
   </head>
-  <body id="map">
-    <script type="text/javascript" src="map.js"></script>
+  <body onload="initMap()">
+    <script type="text/javascript" src="map.spotlight.js"></script>
+  
+    <div id="map">
+    </div>
+      
     <span id="copy">
       &copy; 2010
       <a href="http://www.cloudmade.com/">CloudMade</a>,
