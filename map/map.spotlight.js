@@ -7,7 +7,7 @@ function initMap() {
     var provider = new MM.TemplatedLayer("http://ecn.t{S}.tiles.virtualearth.net/tiles/r{Q}?g=689&mkt=en-us&lbl=l0&stl=m", [0,1,2,3,4,5,6,7]);
     map = new MM.Map("map", provider);
     map.setCenterZoom(new MM.Location(36.9818, -121.9575), 12);
-
+    // Oh yeah, in other words, Alissa is going DOWN!!
     spotlight = new SpotlightLayer();
     map.addLayer(spotlight);
 
