@@ -20,7 +20,7 @@ function initMap() {
 // ghetto JSON-P
 function loadMarkers() {
     var script = document.createElement("script");
-    script.src = "../data/santa_cruz_businesses.geo.json";
+    script.src = "../data/santa_cruz_business_licenses_full.geojson";
     document.getElementsByTagName("head")[0].appendChild(script);
 }
 
